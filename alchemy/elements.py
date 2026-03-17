@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+# elements.py
 
 def create_fire() -> str:
     return "Fire element created"
